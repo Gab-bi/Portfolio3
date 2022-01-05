@@ -1,0 +1,41 @@
+body {
+    font-family: 'Zilla Slab', serif;
+}
+
+.fundo:hover {
+    background-color: lightcoral; 
+    
+}
+
+h1, h4 {
+    text-align: center;
+    color: red;
+    font-family: 'Zilla Slab', serif;
+}
+
+h2 {
+   text-align: left;
+   color: red;
+   font-family: 'Zilla Slab', serif; 
+}
+
+img {
+   width: 700px;  
+   height: 400px;
+   vertical-align: middle;
+}
+
+.mateFinaEx{
+    width: 627px;  
+    height: 104px;
+}
+
+.PA {
+   width: 200px;  
+    height: 200px; 
+}
+
+#exPAimg {
+   width: 500px;  
+   height: 100px;
+}
